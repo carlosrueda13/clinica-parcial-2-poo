@@ -166,7 +166,7 @@ Admin admin = Admin.builder()
 
 ## 📸 Capturas de pantalla
 
-(Agregar aquí imágenes de las vistas de Login, Dashboard, Consultas, etc.)
+
 
 ---
 
