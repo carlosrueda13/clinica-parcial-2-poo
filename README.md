@@ -170,15 +170,7 @@ Admin admin = Admin.builder()
 
 ---
 
-## 🧑‍💻 Autor y contribuciones
+## 🧑‍💻 Autor
 
-Desarrollado por: **[Tu nombre o equipo]**  
-Licencia: MIT (o la que decidas usar)
+Desarrollado por: Carlos Jose Rueda Sarmiento
 
-Pull requests y mejoras son bienvenidas.
-
----
-
-## 📬 Contacto
-
-¿Preguntas o sugerencias? Escríbenos a: [tucorreo@ejemplo.com]
